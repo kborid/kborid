@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋，我是流浪的青蛙
 
 <!--
 **kborid/kborid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
